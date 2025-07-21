@@ -1,7 +1,5 @@
 # Data Professional Survey Results Breakdown
 ### Dashboard :
-Snap of new calculated column ,
-
 ![page 2] ("<img width="587" height="332" alt="Image" src="https://github.com/user-attachments/assets/679b6f99-2641-44fa-a903-bf50b7c03708" />")
 
 ## Problem Statement
