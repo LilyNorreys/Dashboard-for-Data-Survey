@@ -92,14 +92,3 @@ DIVIDE(
 - Supports filtering and cross-highlighting to explore insights interactively  
 
 ---
-
-## File Structure
-
-```
-project-root/
-├── README.md
-├── DataProfessionalSurvey.csv
-└── PowerBI_Dashboard.pbix
-```
-
----
