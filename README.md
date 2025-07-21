@@ -37,7 +37,7 @@ The survey covered the following topics:
   - Created an **average salary** column using a Power Query formula:
 
 ```powerquery
-Average Salary = (MinSalary + MaxSalary) / 2
+Average Salary = ([MinSalary] + [MaxSalary]) / 2
 ```
 
 - Converted data type from text to decimal
